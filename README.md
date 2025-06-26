@@ -1,1 +1,1 @@
-Developed an interactive guessing game using C and binary decision trees, featuring a GUI version for course prediction and a console version with broader functionality. Implemented data persistence for adaptive learning and collaborated in a team to enhance user experience
+
