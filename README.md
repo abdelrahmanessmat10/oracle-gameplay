@@ -1,1 +1,0 @@
-Oracle Gameplay is an interactive guessing game built in C using binary decision trees. The game asks a series of yes/no questions to guess what the player is thinking. If it fails, it learns by asking the user for the correct answer and a distinguishing question — making it smarter over time.
