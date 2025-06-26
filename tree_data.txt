@@ -1,0 +1,167 @@
+Oracle's Tree Data
+Is it related to engineering?
+Does it invlove using binary systems?
+Is it related to programming?
+Does it study the basics of programming?
+Does it study a modern programming language?
+Python Programming
+#
+#
+Intro to Programming
+#
+#
+Data Structures and Algorithms
+#
+#
+Digital Systems Design
+#
+#
+Does it focus on studying mathematical or physical principles?
+Does it study abstract concepts, numbers and their relation?
+Does it study derivatives and integrals?
+Calculus
+#
+#
+Algebra
+#
+#
+Does it study how charges interact?
+Electromagnetism
+#
+#
+Mechanics
+#
+#
+Is the main emphasis on the study of elements and compounds at a molecular level?
+Chemistry
+#
+#
+Civil Engineering Materials
+#
+#
+Does the course focus on human society, behavior, or culture?
+Does it focus on understanding the mind?
+Psychology
+#
+#
+History
+#
+#
+Does the course focus on living organisms and ecosystems?
+Biology
+#
+#
+Does the course focus on communication, language, or literature?
+English
+#
+#
+Geography
+#
+#
+Is the character professor?
+Is the character a head of a department?
+Is the character related to mechatronics?
+Dr. Nader Mansour
+#
+#
+Is the character the head of physics department?
+Dr. Mohammed Ismael
+#
+#
+Dr. Amr El Shreef
+#
+#
+Is the character an entrepreneur?
+Is the character male?
+Dr. Ahmed Abdelhameed
+#
+#
+Dr. Amani Eissa
+#
+#
+Does the character teach mathematics?
+Did the character graduate from the faculty engineering?
+Dr. Ramy Taki El din
+#
+#
+Dr. Youssri Hassan
+#
+#
+Does the character teach programming?
+Does the charcater teach advanced programming?
+Dr. Fatma Elzahraa Elshahaby
+#
+#
+Dr. Hala
+#
+#
+Does the character teach chemistry?
+Dr. Rasha Nashar
+#
+#
+Dr. Hany Zamel
+#
+#
+Is the character a TA?
+Does the character teach physics?
+Does the character teach electronics?
+Is the character female?
+Eng. Shaymaa Mostafa
+#
+#
+Eng. Ali Lotfy
+#
+#
+Is the character interested in astronomy?
+Eng. Rady
+#
+#
+Is the character male?
+Eng. Ahmed Abdelqader
+#
+#
+Eng. Tasneem Youssef
+#
+#
+Does the character teach mathematics?
+Is the character male?
+Did the character graduate from the faculty science?
+Eng. Mohammed Wael
+#
+#
+Eng. Mohammed Borg
+#
+#
+Eng. Marwa Ashraf
+#
+#
+Does the character teach programming?
+Does the charcater teach intro to programming?
+Eng. Rameez Barakat
+#
+#
+Eng. Shaymaa Elkaliouby
+#
+#
+Does the character teach Digital System Design?
+Eng. Amr Al Iraqi
+#
+#
+Eng. Abdelaziz Hassan
+#
+#
+Did the character graduate from computer engineering?
+Is the character the engineering deen?
+Dr. Amr El Masry
+#
+#
+Dr. Ahmed Hassan
+#
+#
+Is the character the president of the university?
+Dr. Reem Bahgat
+#
+#
+Dr. Ahmed Hamad
+#
+#
