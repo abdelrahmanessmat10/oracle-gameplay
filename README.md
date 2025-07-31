@@ -85,8 +85,6 @@ To maintain persistent learning across game sessions using text files.
 
 ## 👥 Team Members
 
-| Name                   | ID        |
-|------------------------|-----------|
 | AbdelRahman Essmat     |
 | Ziad Ahmed Rabie       |
 | Mohammed Wageeh        |
