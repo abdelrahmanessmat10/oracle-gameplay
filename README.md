@@ -87,8 +87,8 @@ To maintain persistent learning across game sessions using text files.
 
 | Name                    |
 |-------------------------|
-| Ziad Ahmed Rabie        |
 | AbdelRahman Essmat      |
+| Ziad Ahmed Rabie        |
 | Mohammed Wageeh         |
 | Hesham El-Kateb         |
 | Abdelrahman Gabr        |
